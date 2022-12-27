@@ -21,46 +21,28 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Project Description
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-- **[Romega Software](https://romegasoftware.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+The project is a web app for astronomy enthusiasts that provides a dashboard with astronomy weather and moon phase information, a satellite feature to view and track satellites, and notifications for satellite flyby passes over the user's coordinates.
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/57841431/209644433-75b0aff6-5449-4592-9fc7-8dd90bae2149.png)
+![image](https://user-images.githubusercontent.com/57841431/209644460-a9a2c16e-c334-4097-88fc-21056883ec46.png)
+![image](https://user-images.githubusercontent.com/57841431/209644494-c6014ef7-0a6d-4e24-9963-0c630007c2dc.png)
+![image](https://user-images.githubusercontent.com/57841431/209644533-a3777187-e1c3-4978-9243-21c6ee3f1865.png)
+![image](https://user-images.githubusercontent.com/57841431/209644573-ec61df8f-e27b-4f3e-ba06-12721fe280f4.png)
+![image](https://user-images.githubusercontent.com/57841431/209644597-6b7d37c9-1765-4dfe-8ae7-43ebc4d56017.png)
+![image](https://user-images.githubusercontent.com/57841431/209644616-528ce435-f200-4a33-bc81-83abcf9e511e.png)
+![image](https://user-images.githubusercontent.com/57841431/209644653-c8ac3a92-4741-4f6e-9537-e5d60b5dca32.png)
+![image](https://user-images.githubusercontent.com/57841431/209644684-ef130339-8bd9-465d-ba08-93f97de0fce1.png)
+![image](https://user-images.githubusercontent.com/57841431/209644722-b6a088fd-270d-4f49-a782-fedf19be8f4c.png)
+![image](https://user-images.githubusercontent.com/57841431/209644746-8af7caf0-0be7-4e89-8f86-40e85032b140.png)
+
+
+
+
